@@ -1,4 +1,3 @@
-# NBody
 public class NBody {
     public static void main(String[] args) {
         double T = Double.parseDouble(args[0]);
